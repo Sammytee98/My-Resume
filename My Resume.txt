@@ -1,0 +1,35 @@
+Samuel  Oso
+Email stosin525@gmail.com
+Phone 08147275222
+Address L19 Ilamoji Quarters Zone 3, Opp New C.B.N.
+Location Ado Ekiti Ekiti State Nigeria
+Work Experience
+Tech Company  | Lagos Lagos Sate Nigeria
+Web Developer
+Jan.2022 - Nov.2023
+I worked for Tech Company in Lagos State as a full-time web developer. I was tasked with developing 
+websites for them.
+BigSam Dev  | Lagos Lagos State Nigeria
+Full-Stack Developer
+Dec.2023 - Present
+I'm currently working as a Full-Stack Developer in this company and I'm tasked with developing apps and 
+websites, as well as debugging codes. Also I work on APIs and Databases.
+Education
+Ekiti State University  | Ado Ekiti Ekiti State Nigeria
+History and International Study , Bachelor of Arts
+Nov.2017 - Oct.2021
+Skills
+HTML
+CSS
+JavaScript
+React
+Node.js
+SQL
+APIs
+Languages
+English
+Yoruba
+SUMMARY
+Hey there, I'm Samuel, I'm well experienced in developing  wele-pleased, interactive and dynamic website 
+using Languages like HtML, CSS and most importantly to make interactive and dynamic website, i use 
+Javascript and react. I'm also experienced in pythion, java and swift for mobile apps.
